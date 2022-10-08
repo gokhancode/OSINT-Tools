@@ -10,12 +10,14 @@ Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmi�
 
 ## Tools I Personally Use The Most / Amazing OSINT listesinden önce kendi kullandığım toollar
 
- * [WhatsMyName](https://whatsmyname.app/)
- * [Sherlock](https://github.com/sherlock-project/sherlock)
- * [Maigret](https://github.com/soxoj/maigret)
- * [Cybersoc CTF](https://ctf.cybersoc.wales/register)
- * [OsintDojo CTF](https://www.osintdojo.com/resources/#ctfs)
- * [IntelX](https://intelx.io)
+ * [WhatsMyName](https://whatsmyname.app/) - Finding All Accounts accross the Internet with the given username / Verilen kullanıcı adına sahip internetteki tüm hesapları bulma aracı
+ * [Sherlock](https://github.com/sherlock-project/sherlock) - Finding All Accounts accross the Internet with the given username / Verilen kullanıcı adına sahip internetteki tüm hesapları bulma aracı
+ * [Maigret](https://github.com/soxoj/maigret) - Finding All Accounts accross the Internet with the given username / Verilen kullanıcı adına sahip internetteki tüm hesapları bulma aracı
+ * [Cybersoc CTF](https://ctf.cybersoc.wales/register) - OSINT CaptureTheFlag
+ * [OsintDojo CTF](https://www.osintdojo.com/resources/#ctfs) - OSINT CaptureTheFlag
+ * [IntelX](https://intelx.io) - Database of Data Breaches, you can search for accounts and keywords / Veri Sızıntısı veritabanı. Kendi mailinizi vesaire aratıp herhangi bir sızıntıya karışıp karışmadığını görebilirsiniz
+ 
+   OSINT Tool Lists
  * [The Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
  * [Inteltechniques Tools](https://inteltechniques.com/tools/)
  * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
