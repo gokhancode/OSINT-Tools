@@ -288,7 +288,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 
 ### [↑](#-Table-of-Contents) Twitter
 
-* [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags. / trend ola hashtagleri bulma
+* [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags. / trend olan hashtagleri bulma
 * [Backtweets](http://backtweets.com) 
 * [Birdspotter](https://birdspotter.net) - A tool to automate Twitter searches. / twitter aramalarını otomatikleştirme aracı
 * [Blue Nod](http://bluenod.com)
