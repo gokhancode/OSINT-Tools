@@ -27,7 +27,7 @@ Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in √ßevrilmi≈
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
-   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
+   - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
