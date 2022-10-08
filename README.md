@@ -8,6 +8,20 @@ This list is a translated and edited version of [Awesome OSINT](https://github.c
 
 Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmiş ve düzenlenmiş bir versiyonudur. Awesome-osint ekibine çok teşekkürler. Listelerini çok faydalı buluyorum, bu yüzden Türk github kullanıcıların da erişebilmesi için Türkçe'ye tercüme ediyorum.
 
+## Tools I Personally Use The Most / Amazing OSINT listesinden önce kendi kullandığım toollar
+
+ * [WhatsMyName](https://whatsmyname.app/)
+ * [Sherlock](https://github.com/sherlock-project/sherlock)
+ * [Maigret](https://github.com/soxoj/maigret)
+ * [Cybersoc CTF](https://ctf.cybersoc.wales/register)
+ * [OsintDojo CTF](https://www.osintdojo.com/resources/#ctfs)
+ * [IntelX](https://intelx.io)
+ * [The Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+ * [Inteltechniques Tools](https://inteltechniques.com/tools/)
+ * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+ * [Osint Framework](https://osintframework.com/)
+ * [Osint4All](https://start.me/p/L1rEYQ/osint4all)
+ * [Dehashed](https://dehashed.com)
 
 ## 📖 Table of Contents
 
