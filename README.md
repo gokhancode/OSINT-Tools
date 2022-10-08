@@ -8,7 +8,7 @@ This list is a translated and edited version of [Awesome OSINT](https://github.c
 
 Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmiş ve düzenlenmiş bir versiyonudur. Awesome-osint ekibine çok teşekkürler. Listelerini çok faydalı buluyorum, bu yüzden Türk github kullanıcıların da erişebilmesi için Türkçe'ye tercüme ediyorum.
 
-## Tools I Personally Use The Most / Amazing OSINT listesinden önce kendi kullandığım toollar
+## Tools I Personally Use The Most / Kendi kullandığım toollar
 
  * [WhatsMyName](https://whatsmyname.app/) - Finding All Accounts accross the Internet with the given username / Verilen kullanıcı adına sahip internetteki tüm hesapları bulma aracı
  * [Sherlock](https://github.com/sherlock-project/sherlock) - Finding All Accounts accross the Internet with the given username / Verilen kullanıcı adına sahip internetteki tüm hesapları bulma aracı
