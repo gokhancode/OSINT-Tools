@@ -4,9 +4,9 @@ A curated list of amazingly awesome public source intelligence tools and resourc
 
 Herkese açık kaynaklardan elde edilen bilgileri toplayan araçların kategoriler halinde listesi.
 
-This list is a translated and edited version of [Awesome OSINT](hhttps://github.com/jivoi/awesome-osint) . Huge thanks to the awesome-osint team. I find their list very useful so I'm translating in Turkish for it to be available to Turkish github users. 
+This list is a translated and edited version of [Awesome OSINT](https://github.com/jivoi/awesome-osint) . Huge thanks to the awesome-osint team. I find their list very useful so I'm translating in Turkish for it to be available to Turkish github users. 
 
-Bu liste, [Awesome OSINT](hhttps://github.com/jivoi/awesome-osint) 'in çevrilmiş ve düzenlenmiş bir versiyonudur. Awesome-osint ekibine çok teşekkürler. Listelerini çok faydalı buluyorum, bu yüzden Türk github kullanıcıların da erişebilmesi için Türkçe'ye tercüme ediyorum.
+Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmiş ve düzenlenmiş bir versiyonudur. Awesome-osint ekibine çok teşekkürler. Listelerini çok faydalı buluyorum, bu yüzden Türk github kullanıcıların da erişebilmesi için Türkçe'ye tercüme ediyorum.
 
 
 ## 📖 Table of Contents
