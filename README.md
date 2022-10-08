@@ -16,6 +16,7 @@ Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmi�
  * [Cybersoc CTF](https://ctf.cybersoc.wales/register) - OSINT CaptureTheFlag
  * [OsintDojo CTF](https://www.osintdojo.com/resources/#ctfs) - OSINT CaptureTheFlag
  * [IntelX](https://intelx.io) - Database of Data Breaches, you can search for accounts and keywords / Veri Sızıntısı veritabanı. Kendi mailinizi vesaire aratıp herhangi bir sızıntıya karışıp karışmadığını görebilirsiniz
+ * [Dehashed](https://dehashed.com) - Database of Data Breaches, you can search for accounts and keywords / Veri Sızıntısı veritabanı. Kendi mailinizi vesaire aratıp herhangi bir sızıntıya karışıp karışmadığını görebilirsiniz
  
    OSINT Tool Lists
  * [The Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -23,7 +24,7 @@ Bu liste, [Awesome OSINT](https://github.com/jivoi/awesome-osint) 'in çevrilmi�
  * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
  * [Osint Framework](https://osintframework.com/)
  * [Osint4All](https://start.me/p/L1rEYQ/osint4all)
- * [Dehashed](https://dehashed.com)
+
 
 ## 📖 Table of Contents
 
