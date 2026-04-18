@@ -1248,6 +1248,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [The Old Reader](http://theoldreader.com)
 * [versionista](http://versionista.com)
 * [visualping](https://visualping.io)
+* [Snaplert](https://snaplert.com) - Website change monitoring with visual pixel diffs, AI-powered summaries, element-level zone picker, and before/after screenshot alerts.
 * [WebReader](http://www.getwebreader.com)
 * [WebSite Watcher](http://www.aignes.com/index.htm)
 * [Winds](http://winds.getstream.io)
