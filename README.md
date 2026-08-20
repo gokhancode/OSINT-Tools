@@ -166,6 +166,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [Zanran](http://zanran.com)
 * [Intelligence X](https://intelx.io/tools)
 * [OCCRP Aleph](https://aleph.occrp.org/)
+* [Horizons](https://horizons.c4ads.org/about) - [C4ADS's](https://c4ads.org) investigative data platform for searching billions of public-interest records and uncovering connections across people, companies, and networks.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters. / Nesnelerin Interneti'ni tarayıp çeşitli sunucular bulmanızı sağlayan bir arama motoru
 * [Mamont](https://www.mmnt.ru/)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
