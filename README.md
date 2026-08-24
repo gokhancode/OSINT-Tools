@@ -2111,6 +2111,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
 urls and other data effortlessly
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
