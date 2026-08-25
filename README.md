@@ -1142,6 +1142,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
 * [Data.gov.uk](https://data.gov.uk)
+* [Databook](https://databook.dataint.net/en/) - country reference profiles for 244 countries and territories: demographics, economy, geography, governance. Multiple authorities shown side by side; every figure carries its source and year.
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -1168,6 +1169,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [LandMatrix](http://landmatrix.org)
 * [Latinobarometro](http://www.latinobarometro.org)
 * [Library, University of Michigan: Statistics and Datasets](http://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets)
+* [logibook](https://logibook.dataint.net/en/) - logistics and trade reference: 58,730 ports, airports, terminals, trade zones and carriers across 250 countries, plus Harmonized System codes, ADR dangerous goods, Incoterms and freight code-list standards. Every figure traced to a named public dataset.
 * [Nation Master](http://www.nationmaster.com/statistics)
 * [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
