@@ -876,7 +876,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
-* [Arcmira](https://arcmira.com/) - Search indexed YouTube and podcast transcripts for timestamped quotes, with API and MCP access ([docs](https://arcmira.com/docs)).
+* [Arcmira](https://arcmira.com/) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. ([docs](https://arcmira.com/docs)).
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels. / Youtube altyazilari arama motoru
 
 ## [↑](#-Table-of-Contents) Radio and Podcasts Tools
