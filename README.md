@@ -708,6 +708,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Website Informer](http://website.informer.com)
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
+* [Whatoblock](https://whatoblock.com/) - Honeypot-based IP lookup: shows which IPs are scanning the internet, the ports and services they target, and whether they are botnet, proxy or Tor exit hosts. / Internet tarayan, botnet, proxy ve Tor IP adreslerini sorgulama
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
 * [WhoIsHostingThis](http://www.whoishostingthis.com)
