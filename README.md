@@ -1373,6 +1373,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [Annotator](http://annotatorjs.org)
 * [Diigo](https://www.diigo.com)
 * [Easy Annotate](http://www.easy-annotate.com)
+* [Glasp](https://glasp.co)
 * [Hypothesis](https://hypothes.is)
 * [Note Anywhere](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh)
 * [Pith.li](http://pith.li)
